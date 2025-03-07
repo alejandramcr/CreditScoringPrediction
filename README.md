@@ -71,9 +71,9 @@ Este proyecto tiene como objetivo **predecir el riesgo crediticio** de los clien
   - **Modelo Random Forest**.
 
 ### 4. Evaluación y Selección de Modelos 🏋‍♂️
-- **Modelo Logit**: AUC-ROC de **0.7693**.
+- **Modelo Logit**: AUC-ROC de **0.7734**.
 - **Modelo Árbol de Decisión**: AUC-ROC de **0.7842**.
-- **Modelo Random Forest**: AUC-ROC de **0.8424** (el más preciso).
+- **Modelo Random Forest**: AUC-ROC de **0.8419** (el más preciso).
 
 ---
 
